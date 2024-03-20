@@ -1,0 +1,31 @@
+Privacy Policy
+
+AVA ("we", "us", or "our") operates the AVA mobile application ("App"). This page informs you of our policies regarding the collection, use, and disclosure of personal information if anyone decided to use our App.
+
+Information Collection and Use
+
+We do not collect any personally identifiable information from users of our App. Our App is free to use and does not require any user registration or account creation.
+
+Log Data
+
+We do not collect any log data when you use our App.
+
+Cookies
+
+We do not use cookies or similar tracking technologies in our App.
+
+Third-Party Services
+
+Our App does not integrate with any third-party services or APIs that may collect user data.
+
+Children's Privacy
+
+Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Ali Zolfagharian.
